@@ -1,7 +1,7 @@
 # 🛒 Shopping tick list
 
 #### เว็บไซต์ทดสอบ
-https://shopping-tick-list-app.vercel.app/
+https://shopping-tick-list.vercel.app/
 
 
 ขั้นตอนการติดตั้ง
