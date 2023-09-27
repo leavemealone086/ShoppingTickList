@@ -53,6 +53,10 @@ CREATE TABLE users (
 
 แล้วไปตรง.env แก้ไข USERNAME,PASSWORD เป็นของตัวเอง
 
+
+## เว็บไซต์ทดสอบ
+https://shopping-tick-list-app.vercel.app/
+
 ## EDIT&DELETE
 ![App ScreenShot](https://github.com/leavemealone086/ShoppingTickList/blob/main/img/Shopping_tick_list1.PNG)
 
