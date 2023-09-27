@@ -56,22 +56,35 @@ CREATE TABLE users (
 แล้วไปตรง.env แก้ไข USERNAME,PASSWORD เป็นของตัวเอง
 
 
+<p align="center">
+ <h2 align="center">EDIT&DELETE</h2>
+</p>
 
-## EDIT&DELETE
 ![App ScreenShot](https://github.com/leavemealone086/ShoppingTickList/blob/main/img/Shopping_tick_list1.PNG)
 
 
-## ADD NEW
+<p align="center">
+ <h2 align="center">ADD NEW</h2>
+</p>
+
 ![App ScreenShot](https://github.com/leavemealone086/ShoppingTickList/blob/main/img/Shopping_tick_list2.PNG)
 
+<p align="center">
+ <h2 align="center">Log in</h2>
+</p>
 
-## Log in
 ![App ScreenShot](https://github.com/leavemealone086/ShoppingTickList/blob/main/img/Shopping_tick_list4.PNG)
 
 
-## Sign up
+<p align="center">
+ <h2 align="center">Sign up</h2>
+</p>
+
 ![App ScreenShot](https://github.com/leavemealone086/ShoppingTickList/blob/main/img/Shopping_tick_list5.PNG)
 
 
-## DATA BASE
+<p align="center">
+ <h2 align="center">DATA BASE</h2>
+</p>
+
 ![App ScreenShot](https://github.com/leavemealone086/ShoppingTickList/blob/main/img/DATA_BASE.PNG)
