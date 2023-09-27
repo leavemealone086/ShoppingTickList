@@ -77,7 +77,7 @@ CREATE TABLE users (
 );
 ```
 
-แล้วไปตรง.env แก้ไข USERNAME,PASSWORD,HOST,DBPORT,REACT_APP_SERVERURL เป็นของตัวเอง
+แล้วไปตรง.env แก้ไข USERNAME, PASSWORD, HOST, DBPORT, REACT_APP_SERVERURL เป็นของตัวเอง
 
 
 <p align="center">
