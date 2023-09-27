@@ -1,31 +1,33 @@
 # 🛒 Shopping tick list
 
+#### เว็บไซต์ทดสอบ
+https://shopping-tick-list-app.vercel.app/
+
+
 ขั้นตอนการติดตั้ง
-```
+```bash
 cd server
 ```
 
 สร้างไฟล์ package.json
-```
+```bash
 npm init
 ```
 
 ติดตั้ง package
-```
+```bash
 npm i express cors bcrypt jsonwebtoken uuid dotenv nodemon
 ```
 
-```
+```bash
 npm i pg
 ```
-
 cd server
-```
+```bash
 npm run start
 ```
-
 cd client
-```
+```bash
 npm run start
 ```
 
@@ -54,8 +56,6 @@ CREATE TABLE users (
 แล้วไปตรง.env แก้ไข USERNAME,PASSWORD เป็นของตัวเอง
 
 
-## เว็บไซต์ทดสอบ
-https://shopping-tick-list-app.vercel.app/
 
 ## EDIT&DELETE
 ![App ScreenShot](https://github.com/leavemealone086/ShoppingTickList/blob/main/img/Shopping_tick_list1.PNG)
