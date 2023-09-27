@@ -6,6 +6,8 @@ https://shopping-tick-list.vercel.app/
 
 
 #### ขั้นตอนการติดตั้ง
+
+### server
 ```bash
 cd server
 ```
@@ -23,11 +25,32 @@ npm i express cors bcrypt jsonwebtoken uuid dotenv nodemon
 ```bash
 npm i pg
 ```
-cd server
+run
 ```bash
 npm run start
 ```
+
+<p/>
+
+### client
+
+```bash
 cd client
+```
+สร้างไฟล์ package.json
+```bash
+npm init
+```
+ติดตั้ง package
+
+```bash
+npm i react-cookie
+```
+```bash
+npm i particles-bg
+```
+
+run
 ```bash
 npm run start
 ```
